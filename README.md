@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there My name is Kostya 👋
+🔭 I am currently working on a new online store project, which will be my new project.
+🤔 I am also looking for a job as a Python Backend Developer.
+💬 I have an elementary level of English, but I understand the basic level
 <!--
 **kostya300/kostya300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
