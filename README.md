@@ -3,7 +3,7 @@
 - 🤔 I am also looking for a job as a Python Backend Developer.
 - 💬 I have an elementary level of English, but I understand the basic level
 - ⚡ Here is the link to my latest project https://github.com/kostya300/blog-3
--  New Project http://myunitmyunit1.ru
+-  New Project https://myunitmyunit1.ru/
 <!--
 **kostya300/kostya300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
